@@ -1,0 +1,9 @@
+[
+    {			
+        "nom_vetement": jeans, 
+        "prix_vetement": "200 DH", 
+        "quantite": "4", 
+        "photo": "images/com/jeans1.jpg", 
+        
+    }
+]
